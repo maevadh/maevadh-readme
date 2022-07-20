@@ -1,5 +1,7 @@
 # 💫 About Me:
-🌱 I'm currently learning Javscript and working on my skills.<br>🤖 I'm in love with artificial intelligence.<br>🌍 I'm French, I speak Spanish (C1), English (B2) and Italian (A2).<br>
+🌱 I'm currently learning Javscript and working on my skills.<br>🤖 
+I'm in love with artificial intelligence.<br>
+🌍 I'm French, I also speak Spanish (C1), English (B2) and Italian (A2).<br>
 
 
 ## 🌐 Socials:
